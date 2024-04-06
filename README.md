@@ -21,5 +21,9 @@ Attribute Information:
 12. number of major vessels (0-3) colored by fluoroscopy
 13. thal: 0 = normal; 1 = fixed defect; 2 = reversable defect
 The names and social security numbers of the patients were recently removed from the database, replaced with dummy values. [Exact Information available on Kaggle]
+
+
+
+
 We are applying 5 Machine Learning algorithms:- Linear Regression, Support Vector Machine(SVM), K-nearest neighbours (KNN), Random Forest Classifier And Gradient Booster. I found the Random Forest Classifier as the most accurate that is why will be using it to train final dataset and for deployment purposes.
 At last, I made a Graphical User Interface(GUI) for users.
